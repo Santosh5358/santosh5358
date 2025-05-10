@@ -10,12 +10,6 @@
 </a>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santosh5358&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/santosh5358?tab=followers">
-    <img src="https://img.shields.io/github/followers/santosh5358?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
 
 ---
 
@@ -24,7 +18,6 @@
   <a href="https://www.linkedin.com/in/santoshgupta21"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://www.hackerrank.com/profile/santoshkumar7211"><img src="https://img.shields.io/badge/HackerRank-blue?style=for-the-badge&logo=hackerrank"/></a>
   <a href="mailto:santoshkumar72102@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="tel:+91727217992"><img src="https://img.shields.io/badge/Call%20Me---brightgreen?style=for-the-badge&logo=phone" /></a>
 </p>
 
 
