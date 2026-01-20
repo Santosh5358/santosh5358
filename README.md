@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Santosh+Kumar+Gupta)](https://git.io/typing-svg)
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Java+Full+Stack+Developer+&color=FF0000" alt="Typing SVG" align="center" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&width=435&lines=I'm+a+Java+Full+Stack+Developer+&color=FF0000" alt="Typing SVG" align="center" />
 </a>
 
 
